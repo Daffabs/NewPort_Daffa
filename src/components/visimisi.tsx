@@ -56,7 +56,7 @@ const Visimisi = () => {
                                         Palang Merah Indonesia
                                     </div>
                                     <div className="text-lg lg:text-xl text-white/60 italic">
-                                        Computer Science
+                                        Frontend Developer
                                     </div>
                                 </div>
 
