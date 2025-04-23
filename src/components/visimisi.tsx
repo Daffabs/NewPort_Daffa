@@ -56,7 +56,7 @@ const Visimisi = () => {
                                         Palang Merah Indonesia
                                     </div>
                                     <div className="text-lg lg:text-xl text-white/60 italic">
-                                        Frontend Developer
+                                        Intern Frontend Developer
                                     </div>
                                 </div>
 
@@ -68,7 +68,7 @@ const Visimisi = () => {
                                         Perdana Photo Group
                                     </div>
                                     <div className="text-lg lg:text-xl text-white/60 italic">
-                                        Fullstack Developer
+                                        Intern Fullstack Developer
                                     </div>
                                 </div>
                             </CardContent>
