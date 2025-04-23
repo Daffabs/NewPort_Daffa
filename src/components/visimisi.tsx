@@ -12,7 +12,7 @@ const Visimisi = () => {
             <div className="container">
                 <div className="flex flex-col items-center gap-6">
                     <h2 className="text-center text-4xl font-semibold lg:text-5xl text-visimisi-txt">
-                        Education,  Experince <span className="text-white">and</span> Organization
+                        Education,  Experience <span className="text-white">and</span> Organization
                     </h2>
                     {/* <p className="text-muted-foreground lg:text-lg">
                         Berikut Adalah Visi Misi JAGWAR
